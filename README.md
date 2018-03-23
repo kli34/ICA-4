@@ -58,4 +58,4 @@ ORDER BY arr_delay DESC
 ```
 
 
-![ICA-4](Visualizations/ICA4-1.png)
+![ICA-4](Visualization/ICA4-1.png)
