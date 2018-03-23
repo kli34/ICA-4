@@ -46,3 +46,8 @@ FROM strata_user.us_f
 WHERE arr_delay between '10' AND '-200'
 GROUP BY arr_delay
 ORDER BY arr_delay DESC
+
+
+
+![example](visualizations/graph.jpg)
+![repo_name](path to file)
