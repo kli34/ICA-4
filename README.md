@@ -2,13 +2,14 @@
 ## Question 1
 -- What businss is the coolest between 2009-05-01 and 2013-12-31
 
+```sql
 SELECT cool,
     count(business_name) as cool_business
 FROM strata_user.yelp
 where review_date between '2009-05-01'AND '2013-12-31' 
 GROUP BY cool
 ORDER BY cool DESC
-
+```
 
 ## Question 2
 -- Which business has 5 stars in 2011. What are the business?
