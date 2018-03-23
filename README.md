@@ -50,5 +50,4 @@ ORDER BY arr_delay DESC
 
 
 
-![example](visualizations/graph.jpg)
-![repo_name](path to file)
+![ICA-4](Visualizations/ICA 4 1.jpg)
