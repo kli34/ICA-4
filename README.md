@@ -10,6 +10,7 @@ where review_date between '2009-05-01'AND '2013-12-31'
 GROUP BY cool
 ORDER BY cool DESC
 ```
+![ICA-4](Visualization/ICA4-1.png)
 
 ## Question 2
 -- Which business has 5 stars in 2011. What are the business?
@@ -58,4 +59,4 @@ ORDER BY arr_delay DESC
 ```
 
 
-![ICA-4](Visualization/ICA4-1.png)
+
