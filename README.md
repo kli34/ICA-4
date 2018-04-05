@@ -1,4 +1,6 @@
 # ICA-4
+Yelp: The dataset basically has a grading system to from customers, such as, star, funny, useful, and cool base on their checkin and checkout date.
+US flight: The dataset records data like delay, weather delay or cancelled flight based on airport and fligh date. 
 ## Question 1
 -- What businss is the coolest between 2009-05-01 and 2013-12-31
 
